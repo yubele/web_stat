@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "sanitize", ">= 5.0.0"
   spec.add_runtime_dependency "cld", ">= 0.8.0"
   spec.add_runtime_dependency "selenium-webdriver", "= 3.142.7"
-  spec.add_runtime_dependency "pdf-reader", "2.4.0"
+  spec.add_runtime_dependency "pdf-reader", "2.4.2"
   spec.add_runtime_dependency "webrick", ">= 1.7.0"
   spec.add_runtime_dependency "rexml", ">= 3.2.4"
 
